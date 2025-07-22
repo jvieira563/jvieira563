@@ -11,16 +11,6 @@
 <div align="left">
 	<img height="36em" src="https://github.com/jvieira562/imagens/blob/main/icons/csharp/csharp-original.svg"/>
 	<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/dotnetcore/dotnetcore-original.svg"/>
-	<img height="36em" src="https://github.com/jvieira562/imagens/blob/main/icons/java/java-original.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/spring/spring-original.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/html5/html5-plain.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/css3/css3-plain.svg"/>
-		 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/git/git-plain.svg"/>
-		<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/azure/azure-devops-svgrepo-com.svg"/>
-	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/github/github.svg"/>
 </div>
 
 ##

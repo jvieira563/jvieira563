@@ -9,6 +9,7 @@
 - **Front-end:** Blazor, ASP.NET MVC, Angular, Bootstrap, JavaScript, jQuery, Ajax, and more... 
 - **Systems Integration:** SOAP WebServices, REST APIs, ERPs (SAP, TOTVS, etc.)  
 - **Legacy Systems Migration:** Strangler Pattern, Modularization, and more...
+- **Cloud:** Microsoft Azure Certified [AZ-900](https://learn.microsoft.com/pt-br/users/jvieiradev/credentials/345eab2b167dd6d1)
 
 ### 🚀 Currently Learning:
 Focused on improving my skills in **legacy system migration**, software modernization, and **corporate architecture best practices**.
